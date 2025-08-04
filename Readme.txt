@@ -1,1 +1,1 @@
-Hi, this is the readme file for STT Lab-1 took place on 4-8-25
+Hi, this is the readme file for STT Lab-1 took place on 4-8-25, we modify the files, stage the changes, commit changes and sync changes.
